@@ -8,4 +8,6 @@
   DB_PORT,DB_DATABASE,DB_USERNAME,DB_PASSWORD
 6)php artisan storage:link
 7)php artisan key:generate
+8)php artisan migrate
+9)php artisan db:seed
 8)В .env заменить APP_URL на свой
